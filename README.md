@@ -1,8 +1,10 @@
 # Haskell Package Attack: January 2018
 
-The monthly package attack to make things faster. [The most recent announcement.](https://github.com/haskell-perf/attack/blob/master/archive/2018-jan.md)
+The monthly package attack to make things faster. Each month there is a call
+for performance improvements to any random popular package of your
+choosing. [The most recent announcement.](https://github.com/haskell-perf/attack/blob/master/archive/2018-jan.md)
 
-## About
+## How does it work?
 
 Each month there is an entry in the [archive](https://github.com/haskell-perf/attack/tree/master/archive) directory in this repo.
 
