@@ -1,8 +1,10 @@
-# Haskell Package Attack: January 2018
+# Haskell Package Attack
 
 The monthly package attack to make things faster. Each month there is a call
 for performance improvements to any random popular package of your
 choosing. [The most recent announcement.](https://github.com/haskell-perf/attack/blob/master/archive/2018-jan.md)
+
+[Feedback from Reddit](https://www.reddit.com/r/haskell/comments/7lb2zx/proposal_monthly_package_attack/) was positive about my proposal of this idea.
 
 ## How does it work?
 
